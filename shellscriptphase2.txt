@@ -1,0 +1,56 @@
+/Users/Hafsa/PycharmProjects/476phase1/venv/bin/python /Users/Hafsa/PycharmProjects/476phase1/phase1old.py
+
+Elapsed Time 5.004 seconds
+Finished in 5.016 seconds
+
+Term weight: 
+              term    weight
+0               aa  0.000041
+1              aaa  0.000026
+2             aabr  0.000004
+3       aacutellam  0.000008
+4      aacutellami  0.000004
+...            ...       ...
+30189       zurich  0.000004
+30190        zwack  0.000007
+30191     zyuganov  0.000085
+30192    zyuganovs  0.000008
+30193      zzzzzzz  0.000102
+
+[30194 rows x 2 columns]
+----------end of term weight----------
+
+Term weight for 002.html: 
+             term    weight
+0           abuse  0.002155
+1          access  0.008621
+2             act  0.002155
+3          action  0.002155
+4         address  0.003592
+     ..            ...       ...
+150            ul  0.002874
+151  unauthorized  0.004310
+152    university  0.002874
+153   widthcenter  0.004310
+154          york  0.002155
+
+[155 rows x 2 columns]
+
+
+term weight w/ input per output: 
+                                                                                       university  ...  murderers
+ers/Hafsa/PycharmProjects/476phase1/inputFiles/...    0.073144  ...   0.000000
+ers/Hafsa/PycharmProjects/476phase1/inputFiles/...    0.020221  ...   0.000000
+ers/Hafsa/PycharmProjects/476phase1/inputFiles/...    0.000000  ...   0.000000
+ers/Hafsa/PycharmProjects/476phase1/inputFiles/...    0.000000  ...   0.000000
+ers/Hafsa/PycharmProjects/476phase1/inputFiles/...    0.000000  ...   0.000000
+...                                                        ...  ...        ...
+ers/Hafsa/PycharmProjects/476phase1/inputFiles/...    0.000000  ...   0.000000
+ers/Hafsa/PycharmProjects/476phase1/inputFiles/...    0.000000  ...   0.000000
+ers/Hafsa/PycharmProjects/476phase1/inputFiles/...    0.000000  ...   0.000000
+ers/Hafsa/PycharmProjects/476phase1/inputFiles/...    0.000000  ...   0.000000
+ers/Hafsa/PycharmProjects/476phase1/inputFiles/...    0.000000  ...   0.005969
+
+[120 rows x 5050 columns]
+
+Process finished with exit code 0
