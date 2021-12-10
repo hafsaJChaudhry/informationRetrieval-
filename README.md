@@ -3,7 +3,8 @@ Learning the Basics of Google and How They Retrieve Information
 
 Phase 1 objective: This assignment is to compare two approaches to tokenize and down case all words in a collection of HTML documents
 
-Could not find phase 2
+Phase 2 objective: This assignment is to update our tokenizer and calculate the term weight in a
+collection of HTML documents
 
 Phase 3 objective: This assignment is to update the previous homework and to add a dictionary output file and a postings output file
 
